@@ -1,4 +1,4 @@
-# 🎤 Tradutor em tempo real Offline
+# 🎤 Tradutor em tempo real **Offline**
 
 <p align="center">
   <img src="https://github.com/klausseidner/Tradutor-offline/blob/main/logo.png" width="20%" alt="Logo do Projeto">
