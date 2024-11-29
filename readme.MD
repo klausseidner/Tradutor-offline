@@ -52,7 +52,7 @@ Os seguintes pacotes Python são instalados automaticamente:
 
 
 ## 💡 Exemplo de Execução
-Escolha dos idiomas:
+Escolha dois idiomas:
 
 - Idioma 1: Português
 - Idioma 2: Alemão
