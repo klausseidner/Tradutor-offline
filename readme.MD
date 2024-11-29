@@ -1,6 +1,8 @@
 # 🎤 Tradutor em tempo real Offline
 
-![Logo do Projeto](https://github.com/klausseidner/Tradutor-offline/logo.png)
+<p align="center">
+  <img src="https://github.com/klausseidner/Tradutor-offline/blob/main/logo.png" width="20%" alt="Logo do Projeto">
+</p>
 
 ## 📖 Descrição
 
