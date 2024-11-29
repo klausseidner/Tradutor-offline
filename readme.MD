@@ -1,4 +1,4 @@
-# 🎤 Tradutor em tempo real **Offline**
+# 🎤 Tradutor em tempo real (Offline)
 
 <p align="center">
   <img src="https://github.com/klausseidner/Tradutor-offline/blob/main/logo.png" width="20%" alt="Logo do Projeto">
@@ -20,7 +20,7 @@ Este sistema realiza a **tradução de voz em tempo real**, utilizando o modelo 
 - 🎙️ Captura de áudio de dois usuários em tempo real.
 - 🌍 Tradução de voz em tempo real entre diferentes pares de idiomas (e.g., Português para Alemão, Inglês para Espanhol).
 - 🔊 Reprodução do áudio traduzido com síntese de fala.
-- 
+- 📶 Não necessita de conexão com a internet após a primeira execução.
 
 ## 📦 Requisitos
 
