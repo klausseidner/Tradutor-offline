@@ -71,7 +71,7 @@ Fluxo de Tradução:
 
 ```sh
 ├── install_req.py - Script para instalar as dependências necessárias.
-└── sistema_traducao_voz.py - Script principal que executa a captura, tradução e reprodução do áudio.
+└── main.py - Script principal que executa a captura, tradução e reprodução do áudio.
 ```
 
 
