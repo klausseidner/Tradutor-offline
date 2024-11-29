@@ -4,6 +4,7 @@
   <img src="https://github.com/klausseidner/Tradutor-offline/blob/main/logo.png" width="20%" alt="Logo do Projeto">
 </p>
 
+
 ## 📖 Descrição
 
 Este sistema realiza a **tradução de voz em tempo real**, utilizando o modelo de tradução **MarianMT** da biblioteca `transformers` e a síntese de fala por meio da biblioteca `TTS`. Ele permite que duas pessoas se comuniquem em diferentes idiomas, com a tradução sendo feita instantaneamente entre o áudio capturado e reproduzido.
@@ -15,12 +16,14 @@ Este sistema realiza a **tradução de voz em tempo real**, utilizando o modelo 
 	<img src="https://img.shields.io/github/languages/count/klausseidner/Tradutor-offline?style=flat&color=0080ff" alt="repo-language-count">
 </p>
 
+
 ## 🚀 Funcionalidades
 
 - 🎙️ Captura de áudio de dois usuários em tempo real.
 - 🌍 Tradução de voz em tempo real entre diferentes pares de idiomas (e.g., Português para Alemão, Inglês para Espanhol).
 - 🔊 Reprodução do áudio traduzido com síntese de fala.
 - 📶 Não necessita de conexão com a internet após a primeira execução.
+
 
 ## 📦 Requisitos
 
@@ -33,6 +36,7 @@ Os seguintes pacotes Python são instalados automaticamente:
 - `TTS`
 - `simpleaudio`
 
+
 ## 🛠️ Como Usar
 
 1. Clone ou baixe este repositório.
@@ -43,8 +47,9 @@ Os seguintes pacotes Python são instalados automaticamente:
    python3 ./main.py
 ```
 
-    O sistema irá solicitar que você selecione os idiomas para a tradução.
-    Após isso, o sistema começará a capturar o áudio dos dois usuários, traduzindo e reproduzindo o áudio traduzido para o outro usuário.
+- O sistema irá solicitar que você selecione os idiomas para a tradução.
+- Após isso, o sistema começará a capturar o áudio dos dois usuários, traduzindo e reproduzindo o áudio traduzido para o outro usuário.
+
 
 ## 💡 Exemplo de Execução
 Escolha dos idiomas:
@@ -61,12 +66,14 @@ Fluxo de Tradução:
 
 **O sistema continuará a tradução em tempo real até que você o interrompa.**
 
+
 ## 📂 Estrutura do Código
 
 ```sh
 ├── install_req.py - Script para instalar as dependências necessárias.
 └── sistema_traducao_voz.py - Script principal que executa a captura, tradução e reprodução do áudio.
 ```
+
 
 ## 👤 Autor
 
@@ -77,11 +84,13 @@ Fluxo de Tradução:
 
 Contribuições são bem-vindas! Se você encontrar problemas ou tiver melhorias para sugerir, sinta-se à vontade para abrir um issue ou um pull request.
 
+
 ## 🍺 Me Pague uma cerveja! 🍺
 
 [![BTC Wallet](http://img.shields.io/badge/Bitcoin-000000?style=flat&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/bc1qtfh4asd7jhyxxpnk0254c2tr6zy4p3aagr9lnc)
 [![ETH Wallet](http://img.shields.io/badge/Ethereum-000000?style=flat&logo=ethereum&logoColor=white)](https://www.blockchain.com/eth/address/0x4bdebD8AA648a88f06Acc7944Ab852676eF059d1)
 [![SOL Wallet](http://img.shields.io/badge/Solana-000000?style=flat&logo=solana&logoColor=white)](https://solscan.io/account/2NWJyYUx4YgdAWkr4pbjbqQvtSGCFH44mqJ1gHnfxu3L)
+
 
 ## 📜 Licença
 
